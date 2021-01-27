@@ -24,11 +24,10 @@ baseurl: /6Duckyy.github.io
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+avatar: https://wx2.sinaimg.cn/mw1024/0082Zv8kly1gmyt6pn3slj302w036wel.jpg
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
-
+favicon: https://wx2.sinaimg.cn/mw1024/0082Zv8kly1gmyt6pn3slj302w036wel.jpg
 
 # 菜单中的按钮
 navigation:
@@ -49,7 +48,7 @@ excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo:  #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  weibo:  https://weibo.com/u/7373273016/home?wvr=5
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
   email: #youremailaddress@mail.com
@@ -66,7 +65,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2019 来自中世界
+footer-text: Copyright (c) 2020 来自6Ducky
 
 #
 # 评论，注意，请不要同时添加多种不同的评论区
